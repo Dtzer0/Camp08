@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    //눌린 아이콘의 색상 설정
+    <item android:color="#9ce9d5"
+        android:state_checked="true" />
+    <item android:color="#CFD8DC" />
+</selector>

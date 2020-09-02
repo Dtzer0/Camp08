@@ -1,0 +1,4 @@
+<resources>
+    //앱 이름 변경
+    <string name="app_name">Intent Test</string>
+</resources>
